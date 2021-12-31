@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThiAPI", "ThiAPI\ThiAPI.csproj", "{2E08A10A-EBC2-43C0-830D-BB9874EF6099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E08A10A-EBC2-43C0-830D-BB9874EF6099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E08A10A-EBC2-43C0-830D-BB9874EF6099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E08A10A-EBC2-43C0-830D-BB9874EF6099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E08A10A-EBC2-43C0-830D-BB9874EF6099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332FADD9-FF20-4EAA-98CB-A26C61D1D588}
+	EndGlobalSection
+EndGlobal
